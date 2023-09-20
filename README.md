@@ -16,8 +16,7 @@
 
 
 ### Connect with Me :
-<a href='in/abood-magdy'> abood </a>
-<a href="in/abood-magdy" target="_blank"><img src="https://img.shields.io/badge/-Abood%20Magdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[in/abood-magdy](https://www.linkedin.com/in/abood-magdy/)" target="_blank"><img src="https://img.shields.io/badge/-Abood%20Magdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
