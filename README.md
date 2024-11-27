@@ -1,15 +1,12 @@
-<h1 align="center">Welcome to Abood Magdy's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center"> Happy to see you here , Abdulrhman Magdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=BackEnd%20Developer;Always%20Learn%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22">
-  </a>
-</p>
 
 <div align="center">
   
-  ### 👽 About Me
-  - 🖥️ Backend  Developer (Nodejs , PHP )
+  ## About Me
+  -  Backend  Developer (Laravel , Nodejs )
+  - Interested In Computer Science
+  - Have a Good Knowlage Base in SW industry 
   
   ### 🛠️ Skills
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
