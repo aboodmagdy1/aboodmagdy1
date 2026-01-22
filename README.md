@@ -1,12 +1,13 @@
-<h1 align="center"> Happy to see you here , Abdulrhman Magdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Abdulrhman Magdy , Backend Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 
 <div align="center">
   
   ## About Me
-  -  Backend  Developer (Laravel , Nodejs )
-  - Interested In Computer Science
-  - Have a Good Knowlage Base in SW industry 
+  -  Backend  Engineer  (Laravel , Nodejs ) .
+  - Interestedn in database design , architecture solutions .
+  - 2 Years of experience in Software Industry .
+  - Deliver Mor that 15 Production differet scale apps . 
   
   ### 🛠️ Skills
   ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -26,9 +27,9 @@
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboodmagdy1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=aboodmagdy1&style=for-the-badge">
